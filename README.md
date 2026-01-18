@@ -86,8 +86,7 @@ I’m obsessed with clean structure, good naming, and making projects that feel 
 
 ---
 
-## 🐍 Contribution Snake (auto-generated)
-> If it doesn’t show immediately, finish the setup steps below.
+## 🐍 Contribution Snake 
 
 <div align="center">
 
@@ -97,7 +96,7 @@ I’m obsessed with clean structure, good naming, and making projects that feel 
 
 ---
 
-## 🧊 3D Contribution Graph (premium look)
+## 🧊 3D Contribution Graph
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AnantaAgarwal/AnantaAgarwal/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -106,9 +105,20 @@ I’m obsessed with clean structure, good naming, and making projects that feel 
 
 ---
 
-## 🧬 Small but memorable
+## 🧬 Memorable Mode 
 ```txt
 Current mode: building → breaking → rebuilding better
 Focus: clean structure + measurable progress
 Style: minimal, sharp, ship-ready
+```
+---
+
+## 📬 Contact
+Email: drananta1120@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ananta-agarwal-5ba875209
+
+<div align="center">
+⭐ If you like clean builds with strong structure — let’s connect.
+</div> 
 
