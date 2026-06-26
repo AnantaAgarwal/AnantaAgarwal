@@ -71,10 +71,10 @@ I’m obsessed with clean structure, good naming, and making projects that feel 
 ---
 
 ## 📊 Live profile dashboard
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnantaAgarwal&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=AnantaAgarwal&hide_border=true" />
 
 </div>
 
@@ -119,6 +119,6 @@ Email: drananta1120@gmail.com
 LinkedIn: https://www.linkedin.com/in/ananta-agarwal-5ba875209
 
 <div align="center">
-⭐ If you like clean builds with strong structure — let’s connect.
+⭐ If you like clean builds with strong structure , let’s connect.
 </div> 
 
